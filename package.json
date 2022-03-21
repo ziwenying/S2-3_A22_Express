@@ -2,8 +2,10 @@
   "name": "S2-3_A22_Express",
   "version": "1.0.0",
   "description": "",
-  "main": "webtry.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
